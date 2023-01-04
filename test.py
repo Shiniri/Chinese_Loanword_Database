@@ -70,3 +70,5 @@ if __name__ == "__main__":
 
     for user in users:
         print(user)
+
+    print("just to test commits")
