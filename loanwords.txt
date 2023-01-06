@@ -1,2 +1,20 @@
+HANZI | PINYIN | IPA | ORIGINAL FORM | ENGLISH TRANSLATION | DESCRIPTION
 1 現在 xiànzài n\a प्रत्युत्पन्न now n\a 
 2 咖啡 kāfēi n\a café Coffee Different donor languages, depending on Chinese variety. In case of Mandarin: French 
+3 英 yīng n\a Eng-? English Used in various compounds, such as 英文, 英國, etc. 
+4 丹堤 dāndī n\a Dante Dante Name, originally Italian 
+5 肯德基 kěndéjī n\a KFC KFC Brand name, short for Kentucky Fried Chicken 
+6 粉底 fěndǐ n\a foundation foundation as in: make up foundation 
+7 施華洛氏奇 shīhuáluòshìqí n\a Svarovsky Svarovsky brand name 
+8 卡 kǎ n\a card card Character also used in various other loanwords 
+9 哈啦 hāla n\a hello hello n\a 
+10 尼莫 nímò n\a Nemo Nemo Name from movie 'Finding Nemo' 
+11 古巴 gǔbā n\a Cuba Cuba Country name 
+12 荷蘭 hélán n\a Holland Netherlands Country name 
+13 澳洲 àozhōu n\a Australia Australia Country name, different form: 澳大利亚/澳大利/澳大利亞 
+14 歐洲 ōuzhōu n\a Europe Europe Country name 
+15 麥昆 màikūn n\a McQueen McQueen Character from movie 'cars' 
+16 嘿 hēi n\a hey hey n\a 
+17 加拿大 jiānádà n\a Canada Canada Country name 
+18 美 měi n\a -me- America / United States Used in compounds like 美國 
+19 西雅圖 xīyǎtú n\a Seattle Seattle City name 

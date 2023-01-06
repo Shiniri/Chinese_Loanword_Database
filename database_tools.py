@@ -54,6 +54,9 @@ def update_txt_from_database(database_connection):
     with open('loanwords.txt', 'w', encoding='utf8') as file:
         get_words_query = 'SELECT * FROM loanwords;'
         row_list = execute_query(database_connection, get_words_query, 'read')
+
+        file.write('HANZI | PINYIN | IPA | ORIGINAL FORM | ENGLISH TRANSLATION | DESCRIPTION \n')
+
         for word in row_list:
             for column in word:
                 file.write(str(column) + ' ')

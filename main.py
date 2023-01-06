@@ -9,5 +9,6 @@ if __name__ == "__main__":
     #   Script from here    #
     #                       #
 
+
     # comment out if txt update not needed
     database_tools.update_txt_from_database(connection)
