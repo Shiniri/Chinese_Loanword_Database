@@ -1,4 +1,4 @@
-HANZI | PINYIN | IPA | ORIGINAL FORM | ENGLISH TRANSLATION | DESCRIPTION
+HANZI | PINYIN | IPA | ORIGINAL FORM | ENGLISH TRANSLATION | DESCRIPTION 
 1 現在 xiànzài n\a प्रत्युत्पन्न now n\a 
 2 咖啡 kāfēi n\a café Coffee Different donor languages, depending on Chinese variety. In case of Mandarin: French 
 3 英 yīng n\a Eng-? English Used in various compounds, such as 英文, 英國, etc. 
@@ -18,3 +18,57 @@ HANZI | PINYIN | IPA | ORIGINAL FORM | ENGLISH TRANSLATION | DESCRIPTION
 17 加拿大 jiānádà n\a Canada Canada Country name 
 18 美 měi n\a -me- America / United States Used in compounds like 美國 
 19 西雅圖 xīyǎtú n\a Seattle Seattle City name 
+20 洛杉磯 luòshānjī n\a Los Angeles Los Angeles city name 
+21 德 dé n\a Deu-? Deutsch German 
+22 拜(拜) bài (bài) n\a bye bye bye bye n\a 
+23 墨西哥 mòxīgē n\a México Mexico country name 
+24 巴西 bāxī n\a Brasil Brazil country name 
+25 秘魯 bìlǔ n\a Perú Peru country name 
+26 智利 zhìlì n\a Chile Chile country name 
+27 帕金森 pàjīnsēn n\a Parkinson Parkinson appears in compound 帕金森氏症 
+28 埃及 āijí n\a Egypt Egypt country name, not borrowed from Arabic مصر, but English 
+29 趴趴 pāpā n\a Papa Papa n\a 
+30 皮皮 pípí n\a Pippi Pippi in compound 长袜子皮皮, ficitional character 
+31 芝加哥 jījiāgē n\a Chicago Chicago city name 
+32 瑞典 ruìdiǎn n\a Sweden Sweden country name, entered Mandarin from English over southern Chinese, where 瑞 has an initial s- 
+33 瓜地馬拉 guādìmǎlā n\a Guatemala Guatemala only Taiwan, instead 危地馬拉／危地马拉 in Mainland China 
+34 紐西蘭 niǔxīlán n\a New Zealand New Zealand country name 
+35 哈倫 hālún n\a Haarlem Harlem city name, not referring to NY neighbourhood, which is 哈莱姆 
+36 剛果 gānguǒ n\a Kongo nkongo? country name, conflicting etymologies, possibly eng. Congo, possibly kongo Nkongo 
+37 葡萄牙 pútáoyá n\a Portugal Portugal country name 
+38 西班牙 xībānyá n\a España Spain country name 
+39 菲律賓 fēilǜbīn n\a Philippines Philippines country name 
+40 酷 kǔ n\a cool cool originally means 'cruel' 
+41 芭蕾 bālěi n\a Ballet Ballet n\a 
+42 菲比 fēibǐ n\a Phoebe Phoebe n\a 
+43 夏朵 xiàduǒ n\a château chateau n\a 
+44 卡通 kǎtōng n\a cartoon cartoon n\a 
+45 越南 yuènán n\a Việt Nam Vietnam country name 
+46 大巴車 dàbāchē n\a bus bus n\a 
+47 沙拉 shālā n\a salad salad n\a 
+48 培根 péigēn n\a bacon bacon n\a 
+49 泡芙 pàofú n\a puff puff n\a 
+50 銨 ǎn n\a ammonium ammonium related words: 氨 (ān, ammonia) and 胺 (àn, amine) 
+51 優酪乳 yōulàorǔ n\a yogurt yogurt different form: 優格, yōugé 
+52 夏威夷 xiàwēiyí n\a Hawaii Hawaii n\a 
+53 泰 tái n\a Thai- Thailand country name, in compounds like 泰國 
+54 鐵達尼號 tiědáníhào n\a Titanic Titanic n\a 
+55 躲避 duóbì n\a dodge- dodge ball in compound  躲避球 
+56 乒乓 pīngpāng n\a ping-pong ping-pong n\a 
+57 推 tuī n\a Tweet Tweet in compounds like 推文, 推特 
+58 麥當勞 màidāngláo n\a McDonald's McDonald's n\a 
+59 哥本哈根 gēběnhāgēn n\a København Copenhagen city name 
+60 印尼 yìnní n\a Indonesia Indonesia country name 
+61 噸 dūn n\a ton ton in compound 公噸 
+62 聲納 shēngnà n\a sonar sonar n\a 
+63 阿拉伯 ālābó n\a عَرَب Arab country name 
+64 伊拉克 yīlākè n\a الْعِرَاق Iraq country name 
+65 康寧 kāngníng n\a Corning Corning brand name 
+66 皮克斯 píkèsī n\a Pixar Pixar brand name 
+67 摩斯 mósī n\a Mos (Burger) Mos (Burger) brand name 
+68 衣索比亞 yīsuǒbǐyǎ n\a Ethiopia Ethiopia only Taiwan, in Mainland China: 埃塞俄比亞／埃塞俄比亚 
+69 部落客 bùluòkè n\a blogger blogger n\a 
+70 義大利 yìdàlì n\a Italy Itarly apparently not borrowed from Italian 
+71 吉普賽 jípǔsài n\a gypsy gypsy apparently borrowed from English 
+72 可樂 kělè n\a cola cola n\a 
+73 提拉米蘇 tílāmǐsū n\a tiramisu tiramisu n\a 
