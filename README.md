@@ -12,14 +12,20 @@ personal interest). Currently, it contains all loanwords that I have come across
 in various Chinese varities and their:
   - Hanzi representation
   - Pinyin Representation
-  - IPA (optional)
   - Original form in donor language
   - English translation
-  - Additional information, e.g. about the donor language
+  - Donor language
+  - Semantic Category (in congruence with the [WOLD](https://wold.clld.org/))
+  - Additional information, e.g. what kind of loanword it is
 
 ## How to use
 
-TO_DO: put in functions from database_tools
+I have included the following functions in the `Database_Tools()`-class to
+interact with the database file:
+  - `create_connection`, connects to the chinese_loanword_database.db
+  - `execute_query`, executes a SQlite query on the database
+  - `add_word`, accepts a list which will be inserted into the database as new row
+  - `update_txt_from_database`, copies the database to a txt for better readability
 
 ## Suggest additions
 
