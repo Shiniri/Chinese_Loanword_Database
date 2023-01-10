@@ -20,7 +20,7 @@ in various Chinese varities and their:
 
 ## How to use
 
-I have included the following functions in the `Database_Tools()`-class to
+I have included the following functions in the `Database_Tools`-class to
 interact with the database file:
   - `create_connection`, connects to the chinese_loanword_database.db
   - `execute_query`, executes a SQlite query on the database
