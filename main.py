@@ -18,7 +18,7 @@ if __name__ == "__main__":
     #   Script from here    #
     #                       #
 
-    print('Hello World')
+    print('hello')
     
     #               #
     #   Script end  #

@@ -1,3 +1,9 @@
 HANZI | PINYIN | DONOR | ORIGINAL FORM | ENGLISH TRANSLATION | CATEGORY | DESCRIPTION 
 1 咖啡 kāfēi café coffee French food_drink different donor language, depending on Chinese variety 
-2 現在 xiànzài प्रत्युत्पन्न  now Sanskrit time n\a 
+2 現在 xiànzài प्रत्युत्पन्न now Sanskrit time n 
+3 茶 chá *la tea Loloish food_drink uncertain, claimed by Schuessler 2007 
+4 饟餉 xiǎng xiǎng ɳon^C Miao-Yao bring food motion Schuessler 2007 
+5 廛 chán *hra:n Kam-Sui farm agriculture_vegetation Also possible from Siamese, Schuessler 2007 
+6 衁 huāng *mham Proto-Austroasiatic blood body original reconstruction unclear, Schuessler 2007 
+7 象 xiàng n\a n\a elephant animals heavily disputed, Schuessler 2007 claims it came to Chinese from some southern language 
+8 狗 gǒu *qluwˣ Proto-Hmong-Mien dog animals multiple proposed origins, Schuessler 2007 
