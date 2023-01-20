@@ -76,7 +76,7 @@ class Database_Tools():
             get_words_query = 'SELECT * FROM loanwords;'
             row_list = self.execute_query(get_words_query, 'read')
 
-            file.write('HANZI | PINYIN | DONOR | ORIGINAL FORM | ENGLISH TRANSLATION | CATEGORY | DESCRIPTION \n')
+            file.write('HANZI | PINYIN | ORIGINAL FORM | ENGLISH TRANSLATION |  DONOR | CATEGORY | DESCRIPTION \n')
 
             for word in row_list:
                 for column in word:
