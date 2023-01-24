@@ -48,3 +48,53 @@ HANZI | PINYIN | ORIGINAL FORM | ENGLISH TRANSLATION |  DONOR | CATEGORY | DESCR
 47 檸檬 níngméng lemon lemon English agriculture_vegetation from WOLD, various origins, also from Arabic / Persian 
 48 榖 gǔ n\a sorghum millet Proto-Austroasiatic agriculture_vegetation from WOLD 
 49 葫蘆 húlu n\a pumpkin n\a agriculture_vegetation from WOLD, but no donor or original form given, quite controversial 
+50 蘑菇 mógu [mo:k] Mushroom Mongolian agriculture_vegetation from WOLD 
+51 縛 fù n\a to tie Austro-Asiatic motion from WOLD, quite controversial 
+52 砍 kǎn > khtɔǝm to chop Austro-Asiatic motion from WOLD, also Sino-Tibetan origin proposed 
+53 搓 cuō > /cnaj/ to rub Austro-Asiatic motion from WOLD, quite controversial 
+54 蓋 gài n\a to build n\a actions_technology from WOLD, no original form or donor proposed 
+55 鐵 tiě n\a iron n\a pyhsical_world from WOLD, no original form or donor proposed 
+56 錫 xī n\a tin n\a physical_world from WOLD, no original form or donor proposed 
+57 蘑菇 mógu [mo:k] Mushroom Mongolian agriculture_vegetation from WOLD 
+58 縛 fù n\a to tie Austro-Asiatic motion from WOLD, quite controversial 
+59 砍 kǎn > khtɔǝm to chop Austro-Asiatic motion from WOLD, also Sino-Tibetan origin proposed 
+60 搓 cuō > /cnaj/ to rub Austro-Asiatic motion from WOLD, quite controversial 
+61 蓋 gài n\a to build n\a actions_technology from WOLD, no original form or donor proposed 
+62 鐵 tiě n\a iron n\a pyhsical_world from WOLD, no original form or donor proposed 
+63 錫 xī n\a tin n\a physical_world from WOLD, no original form or donor proposed 
+64 玻璃 bōli स्फतिक​ glass Sanskrit physical_world from WOLD 
+65 飛 fēi n\a to fly n\a motion from WOLD, no original form or donor proposed 
+66 戴 dài > ? *-dai to carry Proto-Austroasiatic possession from WOLD 
+67 夾 jiā n\a to carry under the arm n\a possession from WOLD, no original form or donor proposed 
+68 車 chē kukäl carriage Tocharian actions_technology from WOLD, other origins proposed 
+69 舟 zhōu *duak boat Proto-Austroasiatic actions_technology from WOLD 
+70 舵 duò n\a rudder n\a actions_technology from WOLD, no original form or donor proposed 
+71 給 gěi n\a to give n\a possession from WOLD, no original form or donor proposed 
+72 還 huán > raṅvā’na to give back Proto-Austroasiatic possession from WOLD 
+73 買 mǎi *(m)bali to buy Austronesian possession from WOLD, controversial, multiple origins proposed 
+74 賣 mài *(m)bali to sell Austronesian possession from WOLD, controversial, multiple origins proposed 
+75 放 fàng n\a to put n\a motion from WOLD, no original form or donor proposed 
+76 擺 bǎi n\a to put n\a motion from WOLD, no original form or donor proposed 
+77 廣 guǎng n\a wide n\a spatial_relations from WOLD, direction of loan unknown 
+78 兩 liǎng *r- two Proto-Tai quantity from WOLD 
+79 數 shǔ > Mon ruih to count Proto-Austroasiatic quantity from WOLD, quite controversial 
+80 天 tiān n\a day n\a physical_world from WOLD, no original form or donor proposed 
+81 酸 suān > jur sour Austro-Asiatic sense_perception from WOLD, unclear origin 
+82 亮 liàng n\a bright Proto-Austroasiatic sense_perception from WOLD, no original form proposed 
+83 親 qīn n\a kiss Austro-Asiatic emotions_values from WOLD, no original form proposed 
+84 哭 kū n\a to cry n\a emotions_values from WOLD, no original form or donor proposed 
+85 筆 bǐ bulut brush Austronesian actions_technology from WOLD 
+86 鼓 gǔ n\a drum n\a actions_technology from WOLD, no original form or donor proposed 
+87 喇叭 lǎba ᠯᠠᠪᠠᠢ trumpet Mongolian actions_technology from WOLD 
+88 棒 bàng *b- club Proto-Tai actions_technology from WOLD, quite controversial 
+89 弓 gōng > *k[o]ŋ bow Proto-Austroasiatic actions_technology from WOLD 
+90 劍 jiàn *k’èmá sword Proto-Altaic actions_technology from WOLD, different origins proposed 
+91 塔 tǎ स्तूप​ pagode Sanskrit religion_belief from WOLD 
+92 賊 zéi n\a thief Khmer law from WOLD, also Sino-Tibetan origin proposed 
+93 廟 miào *prau2 temple Proto-Hmong-Mien religion_belief from WOLD 
+94 和尚 héshang ऊपाध्याय​ priest Sanskrit religion_belief from WOLD 
+95 僧 sēng षंघ​ monk Sanskrit religion_belief from WOLD 
+96 巴士 bāshi bus bus English modern_world from WOLD 
+97 電 diàn > *(?)liŋ lightning Proto-Hmong-Mien physical_world from WOLD, Sino-Tibetan origin also proposed 
+98 马达 mǎdá motor motor English modern_world from WOLD, could have come from multiple European languages 
+99 瓶 píng n\a bottle Proto-Austroasiatic food_drink from WOLD 
