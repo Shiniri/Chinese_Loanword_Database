@@ -21,11 +21,12 @@ if __name__ == "__main__":
     #                       #
     #   Script from here    #
     #                       #
-
+    
     word_matrix = [[]]
 
     for word in word_matrix:
         db_interaction.add_word(word)
+    
     
     #               #
     #   Script end  #

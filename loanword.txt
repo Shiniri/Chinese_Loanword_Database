@@ -98,3 +98,28 @@ HANZI | PINYIN | ORIGINAL FORM | ENGLISH TRANSLATION |  DONOR | CATEGORY | DESCR
 97 電 diàn > *(?)liŋ lightning Proto-Hmong-Mien physical_world from WOLD, Sino-Tibetan origin also proposed 
 98 马达 mǎdá motor motor English modern_world from WOLD, could have come from multiple European languages 
 99 瓶 píng n\a bottle Proto-Austroasiatic food_drink from WOLD 
+100 粉底 fěndǐ foundation foundation English clothing_grooming from the CABank Mandarin Taiwan Corpus 
+101 卡 kǎ card card English modern_world from the CABank Mandarin Taiwan Corpus 
+102 哈啦 hāla hello hello English miscellaneous_function_words from the CABank Mandarin Taiwan Corpus 
+103 嘿 hēi hey hey English miscellaneous_function_words from the CABank Mandarin Taiwan Corpus 
+104 拜 bài bye bye English miscellaneous_function_words from the CABank Mandarin Taiwan Corpus 
+105 帕金森 Pàjīnsēn Parkinson Parkinson n\a body from the CABank Mandarin Taiwan Corpus 
+106 趴趴 pāpā papa papa n\a kinship from the CABank Mandarin Taiwan Corpus 
+107 酷 kǔ cool cool English social_political_relations from the CABank Mandarin Taiwan Corpus 
+108 夏朵 xiàduǒ château chateau French house from the CABank Mandarin Taiwan Corpus 
+109 卡通 kǎtōng cartoon cartoon English modern_world from the CABank Mandarin Taiwan Corpus 
+110 大巴車 dàbāchē bus bus English modern_world from the CABank Mandarin Taiwan Corpus 
+111 沙拉 shālā salad salad English food_drink from the CABank Mandarin Taiwan Corpus 
+112 培根 péigēn bacon bacon English food_drink from the CABank Mandarin Taiwan Corpus 
+113 泡芙 pàofú puff puff English food_drink from the CABank Mandarin Taiwan Corpus 
+114 銨 ǎn ammonium ammonium n\a physical_world from the CABank Mandarin Taiwan Corpus 
+115 優酪乳 yōulàorǔ yogurt yogurt English food_drink from the CABank Mandarin Taiwan Corpus, used only in Taiwan in this form 
+116 優格 yōugé yogurt yogurt English food_drink from the CABank Mandarin Taiwan Corpus 
+117 噸 dùn ton ton English food_drink from the CABank Mandarin Taiwan Corpus, in case of Taiwanese Min Nan borrowed from Japanese 
+118 聲納 shēngnà sonar sonar English actions_technology from the CABank Mandarin Taiwan Corpus 
+119 部落客 bùluòkè blogger blogger English modern_world from the CABank Mandarin Taiwan Corpus 
+120 吉普賽 jípǔsài gypsy gypsy English social_political_relations from the CABank Mandarin Taiwan Corpus 
+121 可樂 kělè cola cola English food_drink from the CABank Mandarin Taiwan Corpus 
+122 提拉米蘇 tílāmǐsū tiramisù tiramisu Italian food_drink from the CABank Mandarin Taiwan Corpus 
+123 摩托車 mótuōchē motorcycle motorcycle English actions_technology from the CABank Mandarin Taiwan Corpus 
+124 咖哩 gālí curry curry English food_drink yes, this is actually borrowed from English, I was surprised too. CABank Mandarin Taiwan 
