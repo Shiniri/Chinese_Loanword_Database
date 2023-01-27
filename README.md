@@ -5,6 +5,8 @@ This database contains loanwords in various Chinese varieties from other languag
 
 这个数据库包含了从其他语言中借来的各种中文品种的词汇。
 
+!!! THIS IS VERY MUCH A WORK IN PROGRESS !!!
+
 ## Introduction
 
 Probably due to the restrictive phonotactic structure of Chinese its varieties contain
